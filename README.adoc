@@ -1,6 +1,7 @@
 include::icons.adoc[]
 
 = Asciidoc on GitHub
+:url-homepage: https://github.com/
 
 [NOTE]
 ====
